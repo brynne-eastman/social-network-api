@@ -38,6 +38,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 Walkthrough Links:
 - [User Walkthrough](https://drive.google.com/file/d/11oFeF1KdQ5TbpWWMH2iaCTi4P1uma3j-/view)
 
+- [Thoughts Walkthrough](https://drive.google.com/file/d/18JuqB4HBiSEj6tQ6ymcqYCv21BdD0JeF/view)
+
+- [Reactions Walkthrough](https://drive.google.com/file/d/1v7shYhKr_clib57gSfHCkIjm1hKbHQtK/view)
+
 ### License
 MIT
 
