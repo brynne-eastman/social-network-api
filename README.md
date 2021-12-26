@@ -35,7 +35,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - npm start to connect to the server
 
 ### Links
-Walkthrough Link:
+Walkthrough Links:
+[User Walkthrough](https://watch.screencastify.com/v/6AD7WnoHht9HfK5bbq4c)
 
 ### License
 MIT
