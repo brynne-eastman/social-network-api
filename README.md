@@ -42,6 +42,8 @@ Walkthrough Links:
 
 - [Reactions Walkthrough](https://drive.google.com/file/d/1v7shYhKr_clib57gSfHCkIjm1hKbHQtK/view)
 
+- [Friend Walkthrough](https://drive.google.com/file/d/1kfaishlu2RUWIHSjRyyyKVIfeI-KuWYD/view)
+
 ### License
 MIT
 
